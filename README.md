@@ -4,7 +4,7 @@ pero no siempre funciona el baneo por cuestiones del token
 el script solo funciona para 3 PAISES POR AHORA 
 Agradecemos a Jonny que ayudaron a la version3 de el mismo
 # NINGUN SISTEMA ES SEGURO
-# CREADOR : HACKING PCH
+# CREADOR : STEVEN
 # MODIFICADOR : WICCA
 
 
@@ -14,7 +14,7 @@ cd B4NEAWHATSAPMEXYCOL
 
 bash BANEO.sh
 
-el que desen ya sea mexico o colombia
+el que desen ya sea mexico o colombia y venezuela
 
 
 
