@@ -1,4 +1,4 @@
-# WHATSAPP-BANO
+# WHATSAPP-BANEOMCV
 Este git funciona para bannear el WhatsApp de la victima 
 pero no siempre funciona el baneo por cuestiones del token 
 el script solo funciona para 3 PAISES POR AHORA 
